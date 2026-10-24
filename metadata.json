@@ -1,0 +1,6 @@
+{
+  "name": "Coway Dallas - Authorized Water Purifier, Air Purifier & Bidet Rentals",
+  "description": "Official Coway Dallas showroom inside Komart. Premium water purifiers, ice water dispensers, air purifiers, and bidets with monthly rental and purchase specials in Dallas-Fort Worth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
